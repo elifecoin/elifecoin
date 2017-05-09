@@ -1,0 +1,5 @@
+elifecoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/elifecoin-qt.desktop usr/share/applications
+debian/elifecoin-qt.protocol usr/share/kde4/services/

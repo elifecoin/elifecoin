@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ElifeCoin
+Comment=ElifeCoin P2P Cryptocurrency
+Comment[fr]=ElifeCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ElifeCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/elifecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/elifecoin;
+Categories=Office;
